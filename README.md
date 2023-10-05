@@ -1,1 +1,5 @@
-# FloodIt
+In my maze generation and pathway algorithm visualizer project, I leveraged Kruskal's Algorithm to meticulously craft spanning trees, resulting in the generation of an extensive collection of diverse and intricate mazes. These mazes were elevated to a new level of engagement through the dynamic animations seamlessly integrated with "Impworld." This allowed for the vivid representation of the search speed and the intricacies of maze traversal.
+
+For the optimization of maze-solving strategies, I strategically incorporated both Breadth First Search and Depth First Search Algorithms. By doing so, I ensured the efficient application of search techniques, enhancing the user experience by providing not only a challenging environment but also fostering the development of problem-solving skills.
+
+This project served as a testament to my proficiency in algorithmic problem-solving and my capacity to create immersive and interactive visualizations within a complex computational context. It demonstrated my ability to bridge the technical and the experiential, making complex concepts accessible and engaging to a broader audience.
